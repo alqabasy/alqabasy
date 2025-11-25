@@ -29,10 +29,6 @@ I am **Mahros Mohamed Mahros Al-Qabasy**, a Computer Science (Software Engineeri
 
 ---
 
-## 🧭 Vision & Philosophy  
-**“Illuminating Hidden Systems.”**  
-**“ننير الأنظمة المخفية.”**
-
 I believe that cybersecurity is a craft built on clarity, discipline, and exploration.  
 My long-term goal is to become a **top-ranked CTF competitor**, exploit developer, and security researcher.
 
@@ -41,7 +37,7 @@ My long-term goal is to become a **top-ranked CTF competitor**, exploit develope
 ## 🔗 Connect & Profiles
 - GitHub Team: https://github.com/qabas-team  
 - Personal: https://github.com/alqabasy  
-- CTFtime (coming soon)  
+- CTFtime: https://ctftime.org/user/245130
 - HackTheBox / TryHackMe (coming soon)
 
 ---
